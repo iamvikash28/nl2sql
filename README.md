@@ -5,7 +5,7 @@ NL2SQL Chatbot lets anyone query a database by just asking a question — no SQL
 
 ---
 
-## 1. Project files
+## Project files
 
 ```
 nl2sql-chatbot/
@@ -17,7 +17,7 @@ nl2sql-chatbot/
 └── README.md
 ```
 
-## 2. Setup
+## Setup
 
 **Step 1 — Install dependencies**
 ```bash
@@ -49,7 +49,7 @@ sidebar, and start asking questions like:
 
 ---
 
-## 5. Skills
+## Skills
 
 |---|---|
 | SQL | Reading/writing SELECT, JOIN, GROUP BY, aggregate functions |
