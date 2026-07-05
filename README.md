@@ -59,7 +59,7 @@ sidebar, and start asking questions like:
 | Streamlit | Chat UI, session state, sidebar, dataframes |
 
 ## Live demo
-[nl-sql.streamlit.app](https://nl-sql.streamlit.app)
+[nl-2sql.streamlit.app](https://nl-2sql.streamlit.app)
 
 ## 👤 Author
 
