@@ -51,7 +51,6 @@ sidebar, and start asking questions like:
 
 ## Skills
 
-|---|---|
 | SQL | Reading/writing SELECT, JOIN, GROUP BY, aggregate functions |
 | Prompt engineering | `nl_to_sql.py` — schema grounding, output constraints |
 | Database querying | `sqlite3`, `pandas.read_sql_query()` |
